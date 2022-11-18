@@ -4,6 +4,6 @@ It's a good refresher anyways. Also it's quite enlightening to emulate existing 
 
 ## Functions and modules covered:
 ### `string`
-- [ ] join
+- [x] join
 - [ ] split
 - [ ] maketrans
